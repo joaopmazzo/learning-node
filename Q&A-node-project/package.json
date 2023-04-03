@@ -1,0 +1,16 @@
+{
+  "name": "q_and_a-node-project",
+  "version": "1.0.0",
+  "description": "A plataform for questions and answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "João Paulo Mazzo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
